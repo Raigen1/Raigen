@@ -17,7 +17,11 @@
     "innerColor":[213,249,255],
     "favoredReligion":"Islam",
     "uniqueName":"kebijaksanaan",
-    "uniques":"[Recieve free [Great Scientist] when you discover [Writing]","[Great Scientist] is earned [100]% faster"],
-    "cities":["Nagar","Shubat Enlil","Urhai","Urkesh","Awan","Riblah","Tayma"]
+    "uniques":[
+      "[+20]% XP gained from combat <for [Military] units>",
+      "free [Great Scientist] appears <upon discovering [Writing]>",
+      "[Great Scientist] is earned [100]% faster"
+      ],
+    "cities":["Nagar","Shubat Enlil","Urhai","Urkesh","Awan","Riblah"]
   }
 ]
