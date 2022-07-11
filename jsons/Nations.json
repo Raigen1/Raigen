@@ -1,27 +1,31 @@
 [
   {
-    "name":"Hollow Land",
-    "leaderName":"Lord Raigen ",
-    "adjective":["Babylonian"],
-    "startBias":["Avoid [Tundra]"]
-    "preferredVictoryType":"Domination",
-    "startIntroPart1":"hahaha",
-    "startIntroPart2":"hehehe",
-    "declaringWar":"bersiaplah untuk hancur.",
-    "defeated":"It is over. Perhaps now I shall have peace, at last.",
-    "introduction":"Are you real or a phantom?",
-    "neutralHello":"Greetings.",
-    "hateHello":"What do YOU want?!",
-    "tradeRequest":"It appears that you do have a reason for existing – to make this deal with me.",
-    "outerColor":[27,53,63],
-    "innerColor":[213,249,255],
-    "favoredReligion":"Islam",
-    "uniqueName":"kebijaksanaan",
-    "uniques":[
-      "[+20]% XP gained from combat <for [Military] units>",
-      "free [Great Scientist] appears <upon discovering [Writing]>",
-      "[Great Scientist] is earned [100]% faster"
-      ],
-    "cities":["Nagar","Shubat Enlil","Urhai","Urkesh","Awan","Riblah"]
+    "name": "Hollow Land",
+    "leaderName": "Aam",
+    "adjective": ["Game Land"],
+    "startBias": ["Mountain"],
+    "preferredVictoryType": "Domination",
+    
+    "declaringWar": "HAHAHAHA waktunya untukmu hancur",
+    "attacked": "bukankah sudah kubilang untuk menyiapkan kuburan untuk pasukanmu HAHAHAHA",
+    "defeated": "ini bukanlah akhir, aku tidak akan melepaskanmu saat ku buat negaraku lagi. kabur",
+    "introduction": "di atas langit masih ada langit, lihatlah kemari dan kau akan melihat ujung dari kekuatan",
+    "neutralHello": "haloo",
+    "hateHello": ".",
+    "tradeRequest": "ini adalah penawaran yang sangat bagus dari negaraku yang terkuat, terimalah dan jadilah lebih kuat",
+    "outerColor": [248,217,2],
+    "innerColor": [21,108,49],
+    "uniqueName": "yang terkuat"
+    "uniques": [
+"[-90]% Production when constructing [All] buildings [in all cities]",
+"[-90]% Production when constructing [All] units [in all cities]",
+"[100]% XP gained from combat <for [Military] units>",
+"[+70]% Strength <for [All] units>",
+"[+5 Gold] from every [Farm]",
+"[+5 Production] from every [Farm]",
+"[+1 Happiness] form every [Farm]",
+"[+5] Movement <for [All] units>",
+],
+    "cities": ["good game","kacang goreng","Raigen Club"]
   }
 ]
